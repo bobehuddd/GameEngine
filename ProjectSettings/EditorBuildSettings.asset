@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneOpenGame.unity
+    guid: 5864ef3dd867b5b4fb4f18cd929d0c37
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: ba9375a69d0015842b3b513fd003da45
+  - enabled: 1
+    path: Assets/Scenes/SceneHome.unity
+    guid: 129befb237fbd0044ba60f122219b64f
+  - enabled: 1
+    path: Assets/Scenes/SceneCityRoad.unity
+    guid: 3da15389c1ddff649b991db05952c09b
+  - enabled: 1
+    path: Assets/Scenes/SceneForest.unity
+    guid: 83769362299281644930f7653ab26694
+  m_configObjects: {}
